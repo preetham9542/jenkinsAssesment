@@ -28,7 +28,7 @@ namespace jenkinsAssesment
             Console.WriteLine($"The difference between {number1} and {number2} is: {difference}");
 
             Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
+           
         }
     }
 }
